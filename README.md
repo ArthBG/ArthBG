@@ -1,4 +1,3 @@
-# 💫 Me:
 Olá, sou Arthur Borges, um desenvolvedor de software apaixonado. Sou reconhecido por minha habilidade em resolver problemas complexos com soluções criativas. Tenho uma inclinação natural para liderança e estou sempre pronto para auxiliar minha equipe a alcançar seus objetivos.<br><br>Hello, I'm Arthur Borges, a passionate software developer. I'm known for my ability to solve complex problems with creative solutions. I have a natural inclination for leadership and I'm always ready to assist my team in achieving their goals.
 
 
