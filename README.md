@@ -16,6 +16,3 @@ Olá, sou Arthur Borges, um desenvolvedor de software apaixonado. Sou reconhecid
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArthBG&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Membro da comunidade LGBTQIA+🌈🏳‍🌈 ##
